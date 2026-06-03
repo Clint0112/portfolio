@@ -252,6 +252,7 @@ sectionMap.forEach(s => {
         "LogSheetSystem/01.png",
         "LogSheetSystem/02.png",
         "LogSheetSystem/04.png",
+        "LogSheetSystem/10.png",
         "LogSheetSystem/13.png"
       ]
     },
