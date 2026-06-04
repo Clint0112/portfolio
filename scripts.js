@@ -268,7 +268,16 @@ sectionMap.forEach(s => {
               "Secure Role-Based Access Control",
               "Responsive & User-Friendly Interface"],
       description: "A web-based faculty performance monitoring system built for Bulacan State University - Bustos Campus to streamline the tracking and evaluation of faculty activities. The platform provides a centralized space where faculty members can log their professional development, research outputs, and extension services. Designed to eliminate manual record-keeping, the system improves data accuracy and gives administrators a clearer view of faculty performance across the campus.",
-      images: ["img/p2-1.jpg", "img/p2-2.jpg"]
+      images: [
+        "FacultyManagement/01.png",
+        "FacultyManagement/02.png",
+        "FacultyManagement/03.png",
+        "FacultyManagement/04.png",
+        "FacultyManagement/05.png",
+        "FacultyManagement/06.png",
+        "FacultyManagement/07.png",
+        "FacultyManagement/08.png"
+      ]
     },
     {
       title: "Kageyoshi Café System",
