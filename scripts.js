@@ -292,7 +292,35 @@ sectionMap.forEach(s => {
               "POS (Point of Sale) Integration",
               "Responsive & Modern Interface"],
       description: "A web-based coffee shop management system built to handle the full operations of a modern café. The platform provides an interactive ordering experience where customers can personalize their drinks and see real-time visual updates as they customize their preferences. Designed with both the customer and the staff in mind, the system integrates order management, inventory tracking, and automated reporting into one seamless and efficient platform.",
-      images: ["img/p3-1.jpg", "img/p3-2.jpg"]
+      images: ["Kageyoshi/kageyoshipreview.jpg", 
+               "Kageyoshi/kageyoshipreview.jpg", 
+               "Kageyoshi/kageyoshipreview.jpg", 
+               "Kageyoshi/kageyoshipreview.jpg" 
+              ]
+    },
+    {
+      title: "Café Brew Frontend",
+      company: "Web Development Activity",
+      year: "Sept 2024",
+      stack: ["HTML", "CSS", "JavaScript"],
+      focus: ["Responsive & User-Friendly Interface",
+              "Interactive Menu & Customization",
+              "Minimalist Design"
+            ],
+      description: "Cafe Brew is a modern, responsive website crafted to establish a vibrant and user-friendly online presence. The platform provides customers with a seamless way to browse the cafe's offerings, featuring an interactive menu, recommendations, and key business details like location and contact information. Built entirely with front-end technologies, the project prioritizes intuitive navigation, adaptive layouts, and a visually engaging interface.",
+      images: [
+        "CafeBrew/01.png",
+        "CafeBrew/02.png",
+        "CafeBrew/03.png",
+        "CafeBrew/04.png",
+        "CafeBrew/05.png",
+        "CafeBrew/06.png",
+        "CafeBrew/07.png",
+        "CafeBrew/08.png",
+        "CafeBrew/09.png",
+        "CafeBrew/10.png",
+        "CafeBrew/11.png"
+      ]
     },
     {
       title: "Cinema Management System",
@@ -308,7 +336,11 @@ sectionMap.forEach(s => {
               "Multi-Cinema Administration",
               "Responsive & User-Friendly Interface"],
       description: "A web-based cinema management system designed to handle the full operations of a multi-branch movie theater. The platform provides administrators with a centralized tool to manage movie screenings, seat reservations, and daily operations across multiple cinema locations. Built with an automated scheduling system that prevents overlapping time slots, the platform ensures smooth and conflict-free screening management while keeping track of inventory, sales, and branch-wide administration.",
-      images: ["img/p3-1.jpg", "img/p3-2.jpg"]
+      images: ["Cinema/cinemapreview.jpg", 
+               "Cinema/cinemapreview.jpg", 
+               "Cinema/cinemapreview.jpg", 
+               "Cinema/cinemapreview.jpg" 
+              ]
     }
   ];
 
